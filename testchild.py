@@ -1,3 +1,3 @@
-# New code added to the child branch
+# Add file to child branch
 
 print("Testing child branch")
